@@ -62,7 +62,7 @@ Kurdish (Native), English (Near-native), Turkish (Proficient)
 ---
 
 <!-- Button to Download CV -->
-<a href="/yo/cv.pdf" download>
+<a href="/cv/cv.pdf" download>
   <button style="padding: 12px 30px; background-color: #3dd68c; color: white; border: none; border-radius: 50px; font-size: 16px; font-weight: 600; cursor: pointer; transition: all 0.3s ease; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-top: 30px;">
     Download CV
   </button>
