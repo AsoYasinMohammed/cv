@@ -5,7 +5,6 @@
 - **Location**: Erbil, Kurdistan Region, Iraq  
 - **LinkedIn**: [linkedin.com/in/aso-yasin-233204322](https://linkedin.com/in/aso-yasin-233204322)  
 - **GitHub**: [github.com/AsoYasinMohammed](https://github.com/AsoYasinMohammed)
-                     
 
 ---
 
@@ -32,72 +31,48 @@
 
 ## Education
 
-Salahaddin University - College of Engineering
-Bachelor in Software Engineering
+Salahaddin University - College of Engineering  
+Bachelor in Software Engineering  
 2022 – Present | Erbil, Iraq
 
 ---
 
 ## Skills
 
-**Programming Languages:**
+**Programming Languages:**  
 Dart, Python, Bash/Shell Scripting, SQL, YAML
 
-**Frameworks & Libraries:**
+**Frameworks & Libraries:**  
 Flutter, Jenkins Pipeline DSL
 
-**Tools:**
+**Tools:**  
 Git, Docker, Jenkins, GitHub, Visual Studio Code, Linux (Ubuntu/CentOS), SSH
 
-**DevOps & Infrastructure:**
+**DevOps & Infrastructure:**  
 CI/CD Pipelines, Containerization, Linux System Administration, Networking & Routing, Automation
 
-**Soft Skills:**
+**Soft Skills:**  
 Problem Solving, Team Collaboration, Technical Communication, Adaptability, Critical Thinking, Time Management
 
 ---
 
-**Languages:**
-Kurdish (Native), English (Near-netive), Turkish (proficient)
+**Languages:**  
+Kurdish (Native), English (Near-native), Turkish (Proficient)
 
 ---
-# Want to grab my CV?
 
-
+<!-- Button to Download CV -->
 <a href="/yo/cv.pdf" download>
-  <button style="padding: 10px 20px; background-color: #04ff00ff; color: white; border: none; border-radius: 5px; cursor: pointer;">
+  <button style="padding: 12px 30px; background-color: #3dd68c; color: white; border: none; border-radius: 50px; font-size: 16px; font-weight: 600; cursor: pointer; transition: all 0.3s ease; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-top: 30px;">
     Download CV
   </button>
 </a>
 
-
----
-
-## Projects
-
-### Weather App with Alerts | *2024*
-* Developed comprehensive Flutter mobile application providing real-time weather information and severe weather alerts with responsive UI and weather animations
-* Integrated third-party weather API for live data and forecasts with JSON parsing
-* **Key technical skills:** Flutter, Dart, REST API integration, JSON parsing, Mobile UI/UX design, Push notifications
-
-### QR Code Generator & Scanner | *2024*
-* Built versatile Flutter application enabling QR code generation, scanning, and management with local data persistence
-* Implemented SQLite database integration for storing QR history and contact information with share and link opening capabilities
-* **Key technical skills:** Flutter, Dart, SQLite database, QR code libraries, Local storage, Mobile development
-
-### CI/CD Pipeline with Jenkins | *2025*
-* Implemented continuous integration and delivery pipeline automating build, test, and deployment processes for sample applications
-* Integrated GitHub for version control with automated email notifications and staging environment deployment
-* **Key technical skills:** Jenkins, Git, GitHub, Shell scripting, CI/CD automation, DevOps practices
-
-### Dockerized Web Application | *2025*
-* Containerized web application to simplify deployment and ensure consistency across environments using Docker and Docker Compose
-* Created custom Dockerfile and configured multi-container environment with persistent database storage on local Linux server
-* **Key technical skills:** Docker, Docker Compose, Linux server administration, Containerization, Multi-container orchestration
-
-
-
-
-
-
-
+<!-- Hover effect -->
+<style>
+  button:hover {
+    background-color: #3dd68c;
+    transform: translateY(-4px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  }
+</style>

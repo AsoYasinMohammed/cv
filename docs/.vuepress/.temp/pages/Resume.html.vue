@@ -27,57 +27,40 @@
 </ul>
 <hr>
 <h2 id="education" tabindex="-1"><a class="header-anchor" href="#education"><span>Education</span></a></h2>
-<p>Salahaddin University - College of Engineering
-Bachelor in Software Engineering
+<p>Salahaddin University - College of Engineering<br>
+Bachelor in Software Engineering<br>
 2022 – Present | Erbil, Iraq</p>
 <hr>
 <h2 id="skills" tabindex="-1"><a class="header-anchor" href="#skills"><span>Skills</span></a></h2>
-<p><strong>Programming Languages:</strong>
+<p><strong>Programming Languages:</strong><br>
 Dart, Python, Bash/Shell Scripting, SQL, YAML</p>
-<p><strong>Frameworks &amp; Libraries:</strong>
+<p><strong>Frameworks &amp; Libraries:</strong><br>
 Flutter, Jenkins Pipeline DSL</p>
-<p><strong>Tools:</strong>
+<p><strong>Tools:</strong><br>
 Git, Docker, Jenkins, GitHub, Visual Studio Code, Linux (Ubuntu/CentOS), SSH</p>
-<p><strong>DevOps &amp; Infrastructure:</strong>
+<p><strong>DevOps &amp; Infrastructure:</strong><br>
 CI/CD Pipelines, Containerization, Linux System Administration, Networking &amp; Routing, Automation</p>
-<p><strong>Soft Skills:</strong>
+<p><strong>Soft Skills:</strong><br>
 Problem Solving, Team Collaboration, Technical Communication, Adaptability, Critical Thinking, Time Management</p>
 <hr>
-<p><strong>Languages:</strong>
-Kurdish (Native), English (Near-netive), Turkish (proficient)</p>
+<p><strong>Languages:</strong><br>
+Kurdish (Native), English (Near-native), Turkish (Proficient)</p>
 <hr>
-<h1 id="want-to-grab-my-cv" tabindex="-1"><a class="header-anchor" href="#want-to-grab-my-cv"><span>Want to grab my CV?</span></a></h1>
+<!-- Button to Download CV -->
 <a href="/yo/cv.pdf" download>
-  <button style="padding: 10px 20px; background-color: #04ff00ff; color: white; border: none; border-radius: 5px; cursor: pointer;">
+  <button style="padding: 12px 30px; background-color: #3dd68c; color: white; border: none; border-radius: 50px; font-size: 16px; font-weight: 600; cursor: pointer; transition: all 0.3s ease; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-top: 30px;">
     Download CV
   </button>
 </a>
-<hr>
-<h2 id="projects" tabindex="-1"><a class="header-anchor" href="#projects"><span>Projects</span></a></h2>
-<h3 id="weather-app-with-alerts-2024" tabindex="-1"><a class="header-anchor" href="#weather-app-with-alerts-2024"><span>Weather App with Alerts | <em>2024</em></span></a></h3>
-<ul>
-<li>Developed comprehensive Flutter mobile application providing real-time weather information and severe weather alerts with responsive UI and weather animations</li>
-<li>Integrated third-party weather API for live data and forecasts with JSON parsing</li>
-<li><strong>Key technical skills:</strong> Flutter, Dart, REST API integration, JSON parsing, Mobile UI/UX design, Push notifications</li>
-</ul>
-<h3 id="qr-code-generator-scanner-2024" tabindex="-1"><a class="header-anchor" href="#qr-code-generator-scanner-2024"><span>QR Code Generator &amp; Scanner | <em>2024</em></span></a></h3>
-<ul>
-<li>Built versatile Flutter application enabling QR code generation, scanning, and management with local data persistence</li>
-<li>Implemented SQLite database integration for storing QR history and contact information with share and link opening capabilities</li>
-<li><strong>Key technical skills:</strong> Flutter, Dart, SQLite database, QR code libraries, Local storage, Mobile development</li>
-</ul>
-<h3 id="ci-cd-pipeline-with-jenkins-2025" tabindex="-1"><a class="header-anchor" href="#ci-cd-pipeline-with-jenkins-2025"><span>CI/CD Pipeline with Jenkins | <em>2025</em></span></a></h3>
-<ul>
-<li>Implemented continuous integration and delivery pipeline automating build, test, and deployment processes for sample applications</li>
-<li>Integrated GitHub for version control with automated email notifications and staging environment deployment</li>
-<li><strong>Key technical skills:</strong> Jenkins, Git, GitHub, Shell scripting, CI/CD automation, DevOps practices</li>
-</ul>
-<h3 id="dockerized-web-application-2025" tabindex="-1"><a class="header-anchor" href="#dockerized-web-application-2025"><span>Dockerized Web Application | <em>2025</em></span></a></h3>
-<ul>
-<li>Containerized web application to simplify deployment and ensure consistency across environments using Docker and Docker Compose</li>
-<li>Created custom Dockerfile and configured multi-container environment with persistent database storage on local Linux server</li>
-<li><strong>Key technical skills:</strong> Docker, Docker Compose, Linux server administration, Containerization, Multi-container orchestration</li>
-</ul>
+<!-- Hover effect -->
 </div></template>
 
 
+
+<style>
+  button:hover {
+    background-color: #3dd68c;
+    transform: translateY(-4px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  }
+</style>
